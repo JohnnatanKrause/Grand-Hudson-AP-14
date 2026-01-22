@@ -1,6 +1,65 @@
-# Abraham Lincoln - Site de Venda de Imóvel
+# 🏢 Edifício Residencial Grand Hudson - AP 14
+
+Este é um site desenvolvido para a venda do **Apartamento 14** no Edifício Residencial Grand Hudson, localizado em Cascavel/PR.  
+O projeto foi construído em **HTML, CSS e JavaScript**, utilizando o template **Imperial** baseado no framework **Bootstrap**, adaptado e personalizado para atender às necessidades deste imóvel.
+
+---
+
+## 📸 Funcionalidades
+
+- **Layout responsivo**: se adapta automaticamente a diferentes tamanhos de tela (desktop, tablet e celular).
+- **Seção de apresentação**: destaque para as principais características do apartamento.
+- **Galeria de imagens**: fotos dos ambientes (sala, suíte, cozinha, escritório, sacada, garagem).
+- **Vídeos de tour**: tour virtual pelo apartamento e pelo condomínio.
+- **Informações técnicas**: metragem (área útil, privativa e total), número de vagas de garagem e diferenciais.
+- **Recursos do condomínio**: salão de festas, área kid, câmeras de segurança, portão eletrônico, acessibilidade e elevador.
+- **Formulário de contato**: para interessados entrarem em contato diretamente.
+- **Mapa interativo**: localização privilegiada no Centro de Cascavel/PR.
+
+---
+
+## 🚀 Deploy
+
+Este projeto será publicado no **Vercel**:  
+👉 [Link do site](https://grand-hudson-ap-14.vercel.app) *(será gerado após o deploy)*
+
+---
+
+## 💻 Como rodar localmente
+
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/JohnnatanKrause/Grand-Hudson-AP-14.git
+Entre na pasta do projeto:
+
+bash
+cd Grand-Hudson-AP-14
+Abra o arquivo index.html no navegador.
+
+📄 Informações sobre o Template
+Nome do Modelo: Imperial
+
+URL do Modelo: Imperial - Template de Página Única Bootstrap
+
+Autor: BootstrapMade.com
+
+Licença: Licença do Template
+
+👤 Autor
+Johnnatan Krause  
+📍 Cascavel / PR
+
+LinkedIn (linkedin.com in Bing)  
+GitHub (github.com in Bing)  
+https://discord.com/channels/
+
+
+
+# 🏢 Edifício Residencial Grand Hudson - AP 14 - Site de Venda de Imóvel
 
 Este é um site desenvolvido para a venda de um imóvel, utilizando o template **Imperial** baseado no framework **Bootstrap**. O template foi adaptado e personalizado para atender às necessidades deste projeto específico.
+
+Este é um site desenvolvido para a venda do **Apartamento 14** no Edifício Residencial Grand Hudson, localizado em Cascavel/PR. O projeto foi construído em **HTML, CSS e JavaScript**, utilizando o template **Imperial** baseado no framework **Bootstrap**, adaptado e personalizado para atender às necessidades deste imóvel.
 
 O site está hospedado no **GitHub Pages** e pode ser acessado diretamente através do link de publicação.
 
