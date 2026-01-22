@@ -21,8 +21,7 @@ O projeto foi construído em **HTML, CSS e JavaScript**, utilizando o template *
 ## 🚀 Deploy
 
 Este projeto será publicado no **Vercel**:  
-👉 [Link do site](https://grand-hudson-ap-14.vercel.app) *(será gerado após o deploy)*
-    [Conheça o seu mais novo lar!](https://johnnatankrause.github.io/Abrahm-Linconl)
+👉 [Conheça o seu mais novo lar!](https://grand-hudson-ap.vercel.app)
 ---
 
 ## 💻 Como rodar localmente
@@ -47,7 +46,7 @@ Abra o arquivo index.html no navegador.
 
 ## Conecte-se comigo
 👤 Johnnatan Krause  
-📍 Cascavel / PR
+📍 Londrina / PR
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johnnatankrause/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JohnnatanKrause) 
